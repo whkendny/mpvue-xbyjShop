@@ -1,6 +1,6 @@
 import request from './request'
-
-const ApiRootUrl = 'http://127.0.0.1:8360/api/'
+// http://127.0.0.1:8360/api/
+const ApiRootUrl = 'https://www.xuanbiyijue.com/api/'
 
 const api = {
   // 首页数据接口
